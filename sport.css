@@ -1,0 +1,72 @@
+body{
+  background-image: url(http://cdn.wonderfulengineering.com/wp-content/uploads/2014/06/galaxy-wallpapers.jpg);
+}
+/* .entete
+{
+  height: 70px;
+  width: auto;
+  background-color: black;
+} */
+
+
+h1
+{
+  color: white;
+  font-size: 200px;
+  font-family: 'Arial Black', Gadget, sans-serif;
+  text-align: center;
+}
+
+
+h2
+{
+  color: white;
+  font-size: 80%;
+  font-family: 'Arial Black', Gadget, sans-serif;
+  width: 50%;
+  text-align: center;
+  position: absolute;
+  left: 50%;
+  width: 400px;
+  margin-left: -200px;
+}
+
+div
+{color: white;
+float: left;
+width: 320px;
+background-color: red;
+}
+
+.left
+{
+ color: white;
+ float: left;
+ width: 320px;
+ background-color: red;
+}
+.center
+{
+  color: white;
+  float: center;
+  width: 320px;
+  background-color: red;
+
+}
+.right
+{
+  color: white;
+  float: right;
+  width: 320px;
+  background-color: red;
+}
+
+.pied
+{
+  height: 30px;
+  position:absolute;
+  bottom:0;
+  width:100%;
+  padding-top:50px;
+  height:50px;
+}

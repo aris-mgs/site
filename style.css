@@ -1,0 +1,82 @@
+body{
+  background-image: url(http://hdimages.org/wp-content/uploads/2016/11/galaxy-images-HD4.jpg);
+}
+
+
+
+/* pas encore sure
+.entete
+{
+  height: 70px;
+  width: auto;
+  background-color: black;
+}
+*/
+
+h1
+{
+  color: white;
+  font-size: 250%;
+  font-family: 'Arial Black', Gadget, sans-serif;
+  width: 60%;
+  text-align: center;
+  position: absolute;
+  left: 50%;
+  width: 400px;
+  margin-left: -200px;
+  margin-top: -110px;
+}
+
+
+h2
+{
+  color: white;
+  font-size: 80%;
+  font-family: 'Arial Black', Gadget, sans-serif;
+  width: 50%;
+  text-align: center;
+  position: absolute;
+  left: 50%;
+  width: 400px;
+  margin-left: -200px;
+}
+
+.pied
+{
+  height: 30px;
+  position:absolute;
+  bottom:0;
+  width:100%;
+  padding-top:50px;
+  height:50px;
+}
+
+nav
+{
+  margin-top: 110px;
+}
+
+a:link, a:visited {
+    background-color: black;
+    font-size: 20px;
+    font-family: 'Arial Black', Gadget, sans-serif;
+    text-decoration: none;
+    color: white;
+    padding: 30px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    position: static;
+    margin-top:
+}
+
+a:hover, a:active {
+  background-color: green;
+  color: white;
+}
+
+
+h1
+.Sport {
+  margin-top: 100px;
+}
